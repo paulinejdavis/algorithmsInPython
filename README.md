@@ -1,4 +1,4 @@
-<img width="469" src="https://github.com/paulinejdavis/algorithmsInPython/assets/111147520/9d48be92-e5dd-4610-bada-439bd4a5f20e">
+<img width="100" src="https://github.com/paulinejdavis/algorithmsInPython/assets/111147520/9d48be92-e5dd-4610-bada-439bd4a5f20e">
 
 
 ## Course overview
