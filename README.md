@@ -1,4 +1,4 @@
-![Unknown-1](https://github.com/paulinejdavis/algorithmsInPython/assets/111147520/9d48be92-e5dd-4610-bada-439bd4a5f20e)
+<img src="https://github.com/paulinejdavis/algorithmsInPython/assets/111147520/9d48be92-e5dd-4610-bada-439bd4a5f20e"width="100/>
 
 ## Course overview
 An algorithm is a recipe for solving a problem, and solving problems is a large part of what programming is all about. Programmers do not only have good general problem-solving skills, they also rely on a large body of standard algorithms that help them get to the solution quickly.
