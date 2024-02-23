@@ -43,4 +43,4 @@ By the end of this course you should be able to...
 • Use a state machine to manage a process that can respond to external events
 • Write your own algorithms for sorting and searching and understand the trade-offs involved
 • Write a pathfinding algorithm to solve a maze
-• Use a decision tree to navigate a complex set of information.
+• Use a decision tree to navigate a complex set of information. 
